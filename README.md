@@ -1,5 +1,3 @@
-# car-price-detector
-
 # Car Price Predictor
 
 This project is a car price predictor built using a simple linear regression model. The model is deployed using Streamlit, allowing users to interactively predict car prices based on input features.
