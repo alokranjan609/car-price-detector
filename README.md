@@ -33,6 +33,7 @@ To run this project locally, follow these steps:
 - `app.py`: The main script that runs the Streamlit application.
 - `model_saved.pkl':The model which is trained using the dataset.
 - `requirements.txt`: List of dependencies required for the project.
+- `static/css`:static files for the application.
 
 ## Contributing
 
